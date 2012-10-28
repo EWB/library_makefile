@@ -67,7 +67,7 @@ projects[library_taxonomies][type] = "module"
 projects[library_taxonomies][subdir] = "contrib"
 
 projects[library_citation_guide][download][type] = "git"
-projects[library_citation_guide][download][url] = "git@github.com/EWB/library_citation_guide.git"
+projects[library_citation_guide][download][url] = "git@github.com:EWB/library_citation_guide.git"
 projects[library_citation_guide][type] = "module"
 projects[library_citation_guide][subdir] = "contrib"
 
