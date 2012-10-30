@@ -56,11 +56,6 @@ projects[library_database][download][url] = "git@github.com:EWB/library_database
 projects[library_database][type] = "module"
 projects[library_database][subdir] = "contrib"
 
-projects[library_search_cluster][download][type] = "git"
-projects[library_search_cluster][download][url] = "git@github.com:EWB/library_search_cluster.git"
-projects[library_search_cluster][type] = "module"
-projects[library_search_cluster][subdir] = "contrib"
-
 projects[library_taxonomies][download][type] = "git"
 projects[library_taxonomies][download][url] = "git@github.com:EWB/library_taxonomies.git"
 projects[library_taxonomies][type] = "module"
