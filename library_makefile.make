@@ -47,6 +47,10 @@ projects[environment_indicator][subdir] = "contrib"
 
 projects[features][subdir] = "contrib"
 
+projects[feeds][subdir] = "contrib"
+
+projects[feeds_tamper][subdir] = "contrib"
+
 projects[field_group][subdir] = "contrib"
 
 projects[libraries][subdir] = "contrib"
@@ -121,6 +125,8 @@ projects[taxonomy_csv][subdir] = "contrib"
 projects[token][subdir] = "contrib"
 
 projects[views][subdir] = "contrib"
+
+projects[views_slideshow][subdir] = "contrib"
 
 projects[wysiwyg][subdir] = "contrib"
 
