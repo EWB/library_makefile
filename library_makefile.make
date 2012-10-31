@@ -53,6 +53,8 @@ projects[feeds_tamper][subdir] = "contrib"
 
 projects[field_group][subdir] = "contrib"
 
+projects[job_scheduler][subdir] = "contrib"
+
 projects[libraries][subdir] = "contrib"
 
 projects[library_database][download][type] = "git"
