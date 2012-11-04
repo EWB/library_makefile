@@ -49,6 +49,8 @@ projects[features][subdir] = "contrib"
 
 projects[feeds][subdir] = "contrib"
 
+projects[globalredirect][subdir] = "contrib"
+
 projects[feeds_tamper][subdir] = "contrib"
 
 projects[field_group][subdir] = "contrib"
@@ -110,7 +112,11 @@ projects[library_taxonomies][subdir] = "contrib"
 
 projects[link][subdir] = "contrib"
 
+projects[metatag][subdir] = "contrib"
+
 projects[name][subdir] = "contrib"
+
+projects[nice_menus][subdir] = "contrib"
 
 projects[node_export][subdir] = "contrib"
 
@@ -118,13 +124,21 @@ projects[omega_tools][subdir] = "contrib"
 
 projects[options_element][subdir] = "contrib"
 
+projects[pathologic][subdir] = "contrib"
+
 projects[phone][subdir] = "contrib"
 
+projects[print][subdir] = "contrib"
+
 projects[quicktabs][subdir] = "contrib"
+
+projects[sharethis][subdir] = "contrib"
 
 projects[strongarm][subdir] = "contrib"
 
 projects[taxonomy_csv][subdir] = "contrib"
+
+projects[taxonomy_manager][subdir] = "contrib"
 
 projects[token][subdir] = "contrib"
 
