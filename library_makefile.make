@@ -112,6 +112,8 @@ projects[link][subdir] = "contrib"
 
 projects[name][subdir] = "contrib"
 
+projects[node_export][subdir] = "contrib"
+
 projects[omega_tools][subdir] = "contrib"
 
 projects[options_element][subdir] = "contrib"
@@ -126,7 +128,11 @@ projects[taxonomy_csv][subdir] = "contrib"
 
 projects[token][subdir] = "contrib"
 
+projects[uuid][subdir] = "contrib"
+
 projects[views][subdir] = "contrib"
+
+projects[views_bulk_operations][subdir] = "contrib"
 
 projects[views_slideshow][subdir] = "contrib"
 
