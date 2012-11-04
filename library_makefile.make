@@ -19,6 +19,8 @@ projects[base_event][download][url] = "git@github.com:EWB/base_event.git"
 projects[base_event][type] = "module"
 projects[base_event][subdir] = "contrib"
 
+projects[block_class][subdir] = "contrib"
+
 projects[boxes][subdir] = "contrib"
 
 projects[ctools][subdir] = "contrib"
@@ -49,11 +51,15 @@ projects[features][subdir] = "contrib"
 
 projects[feeds][subdir] = "contrib"
 
-projects[globalredirect][subdir] = "contrib"
-
 projects[feeds_tamper][subdir] = "contrib"
 
 projects[field_group][subdir] = "contrib"
+
+projects[flag][subdir] = "contrib"
+
+projects[globalredirect][subdir] = "contrib"
+
+projects[google_analytics][subdir] = "contrib"
 
 projects[job_scheduler][subdir] = "contrib"
 
@@ -151,6 +157,8 @@ projects[views_bulk_operations][subdir] = "contrib"
 projects[views_slideshow][subdir] = "contrib"
 
 projects[wysiwyg][subdir] = "contrib"
+
+projects[xmlsitemap][subdir] = "contrib"
 
 ; Themes
 projects[] = "omega"
