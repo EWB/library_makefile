@@ -57,6 +57,8 @@ projects[field_group][subdir] = "contrib"
 
 projects[flag][subdir] = "contrib"
 
+projects[geocoder][subdir] = "contrib"
+
 projects[geofield][subdir] = "contrib"
 
 projects[geophp][subdir] = "contrib"
