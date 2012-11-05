@@ -192,7 +192,7 @@ libraries[colorbox][download][url] = "http://colorpowered.com/colorbox/colorbox.
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
-libraries[colorbox][download][type] = "get"
-libraries[colorbox][download][url] = "git@github.com:phayes/geoPHP.git"
-libraries[colorbox][directory_name] = "geophp"
-libraries[colorbox][destination] = "libraries"
+libraries[geophp][download][type] = "get"
+libraries[geophp][download][url] = "git@github.com:phayes/geoPHP.git"
+libraries[geophp][directory_name] = "geophp"
+libraries[geophp][destination] = "libraries"
