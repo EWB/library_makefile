@@ -7,6 +7,8 @@ projects[addanother][subdir] = "contrib"
 
 projects[advanced_help][subdir] = "contrib"
 
+projects[addressfield][subdir] = "contrib"
+
 projects[backup_migrate][subdir] = "contrib"
 
 projects[base_announcement][download][type] = "git"
