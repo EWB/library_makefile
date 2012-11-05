@@ -193,6 +193,6 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
 libraries[colorbox][download][type] = "get"
-libraries[colorbox][download][url] = "git://github.com/phayes/geoPHP.git"
+libraries[colorbox][download][url] = "git@github.com:phayes/geoPHP.git"
 libraries[colorbox][directory_name] = "geophp"
 libraries[colorbox][destination] = "libraries"
