@@ -57,6 +57,10 @@ projects[field_group][subdir] = "contrib"
 
 projects[flag][subdir] = "contrib"
 
+projects[geofield][subdir] = "contrib"
+
+projects[geophp][subdir] = "contrib"
+
 projects[globalredirect][subdir] = "contrib"
 
 projects[google_analytics][subdir] = "contrib"
@@ -178,9 +182,15 @@ projects[slu_library][type] = "theme"
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.3/ckeditor_3.6.3.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
+libraries[colorbox][destination] = "libraries"
 libraries[ckeditor][type] = "library"
 
 libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "http://colorpowered.com/colorbox/colorbox.zip"
 libraries[colorbox][directory_name] = "colorbox"
+libraries[colorbox][destination] = "libraries"
+
+libraries[colorbox][download][type] = "get"
+libraries[colorbox][download][url] = "git://github.com/phayes/geoPHP.git"
+libraries[colorbox][directory_name] = "geophp"
 libraries[colorbox][destination] = "libraries"
