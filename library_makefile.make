@@ -14,7 +14,7 @@ projects[backup_migrate][subdir] = "contrib"
 projects[base_announcement][download][type] = "git"
 projects[base_announcement][download][url] = "git@github.com:EWB/base_announcement.git"
 projects[base_announcement][type] = "module"
-projects[base_announcement][subdir] = "contrib"
+projects[base_announcement][subdir] = "features"
 
 projects[base_event][download][type] = "git"
 projects[base_event][download][url] = "git@github.com:EWB/base_event.git"
