@@ -163,7 +163,7 @@ projects[taxonomy_manager][subdir] = "contrib"
 
 projects[token][subdir] = "contrib"
 
-projects[uuid][version] = "7.0-dev"
+projects[uuid][version] = "7.x-1.0-alpha3"
 projects[uuid][subdir] = "contrib"
 
 projects[views][subdir] = "contrib"
