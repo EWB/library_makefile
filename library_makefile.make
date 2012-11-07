@@ -19,12 +19,12 @@ projects[base_announcement][subdir] = "features"
 projects[base_event][download][type] = "git"
 projects[base_event][download][url] = "git@github.com:EWB/base_event.git"
 projects[base_event][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[base_event][subdir] = "features"
 
-projects[base_event][download][type] = "git"
-projects[base_event][download][url] = "git@github.com:EWB/base_wysiwyg.git"
-projects[base_event][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[base_wysiwyg][download][type] = "git"
+projects[base_wysiwyg][download][url] = "git@github.com:EWB/base_wysiwyg.git"
+projects[base_wysiwyg][type] = "module"
+projects[base_wysiwyg[subdir] = "features"
 
 projects[block_class][subdir] = "contrib"
 
@@ -81,53 +81,53 @@ projects[libraries][subdir] = "contrib"
 projects[library_database][download][type] = "git"
 projects[library_database][download][url] = "git@github.com:EWB/library_database.git"
 projects[library_database][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_database][subdir] = "features"
 
 projects[library_taxonomies][download][type] = "git"
 projects[library_taxonomies][download][url] = "git@github.com:EWB/library_taxonomies.git"
 projects[library_taxonomies][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_taxonomies][subdir] = "features"
 
 projects[library_citation_guide][download][type] = "git"
 projects[library_citation_guide][download][url] = "git@github.com:EWB/library_citation_guide.git"
 projects[library_citation_guide][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_citation_guide][subdir] = "features"
 
 projects[library_course_profile][download][type] = "git"
 projects[library_course_profile][download][url] = "git@github.com:EWB/library_course_profile.git"
 projects[library_course_profile][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_course_profile][subdir] = "features"
 
 projects[library_database][download][type] = "git"
 projects[library_database][download][url] = "git@github.com:EWB/library_database.git"
 projects[library_database][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_database][subdir] = "features"
 
 projects[library_ebooks][download][type] = "git"
 projects[library_ebooks][download][url] = "git@github.com:EWB/library_ebooks.git"
 projects[library_ebooks][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_ebooks][subdir] = "features"
 
 projects[library_manuscript_collection][download][type] = "git"
 projects[library_manuscript_collection][download][url] = "git@github.com:EWB/library_manuscript_collection.git"
 projects[library_manuscript_collection][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_manuscript_collection][subdir] = "features"
 
 projects[library_research_guide][download][type] = "git"
 projects[library_research_guide][download][url] = "git@github.com:EWB/library_research_guide.git"
 projects[library_research_guide][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_research_guide][subdir] = "features"
 
 
 projects[library_staff_profile][download][type] = "git"
 projects[library_staff_profile][download][url] = "git@github.com:EWB/library_staff_profile.git"
 projects[library_staff_profile][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_staff_profile][subdir] = "features"
 
 projects[library_taxonomies][download][type] = "git"
 projects[library_taxonomies][download][url] = "git@github.com:EWB/library_taxonomies.git"
 projects[library_taxonomies][type] = "module"
-projects[base_announcement][subdir] = "features"
+projects[library_taxonomies][subdir] = "features"
 
 projects[link][subdir] = "contrib"
 
@@ -161,7 +161,7 @@ projects[taxonomy_manager][subdir] = "contrib"
 
 projects[token][subdir] = "contrib"
 
-projects[uuid][version] = "7.1-alpha"
+projects[uuid][version] = "7.1-dev"
 projects[uuid][subdir] = "contrib"
 
 projects[views][subdir] = "contrib"
