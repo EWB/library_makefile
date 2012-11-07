@@ -131,6 +131,8 @@ projects[library_taxonomies][subdir] = "features"
 
 projects[link][subdir] = "contrib"
 
+projects[linkit][subdir] = "contrib"
+
 projects[metatag][subdir] = "contrib"
 
 projects[name][subdir] = "contrib"
