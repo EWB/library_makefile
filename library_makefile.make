@@ -156,6 +156,7 @@ projects[taxonomy_manager][subdir] = "contrib"
 
 projects[token][subdir] = "contrib"
 
+projects[uuid][version] = "7.1-dev"
 projects[uuid][subdir] = "contrib"
 
 projects[views][subdir] = "contrib"
