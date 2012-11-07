@@ -24,7 +24,7 @@ projects[base_event][subdir] = "features"
 projects[base_wysiwyg][download][type] = "git"
 projects[base_wysiwyg][download][url] = "git@github.com:EWB/base_wysiwyg.git"
 projects[base_wysiwyg][type] = "module"
-projects[base_wysiwyg[subdir] = "features"
+projects[base_wysiwyg][subdir] = "features"
 
 projects[block_class][subdir] = "contrib"
 
@@ -161,7 +161,7 @@ projects[taxonomy_manager][subdir] = "contrib"
 
 projects[token][subdir] = "contrib"
 
-projects[uuid][version] = "7.1-dev"
+projects[uuid][version] = "7.0-dev"
 projects[uuid][subdir] = "contrib"
 
 projects[views][subdir] = "contrib"
