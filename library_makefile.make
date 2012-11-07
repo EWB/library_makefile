@@ -21,10 +21,10 @@ projects[base_event][download][url] = "git@github.com:EWB/base_event.git"
 projects[base_event][type] = "module"
 projects[base_event][subdir] = "features"
 
-projects[base_wysiwyg][download][type] = "git"
-projects[base_wysiwyg][download][url] = "git@github.com:EWB/base_wysiwyg.git"
-projects[base_wysiwyg][type] = "module"
-projects[base_wysiwyg][subdir] = "features"
+projects[base_wysiwyg_editor][download][type] = "git"
+projects[base_wysiwyg_editor][download][url] = "git@github.com:EWB/base_wysiwyg_editor.git"
+projects[base_wysiwyg_editor][type] = "module"
+projects[base_wysiwyg_editor][subdir] = "features"
 
 projects[block_class][subdir] = "contrib"
 
