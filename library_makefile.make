@@ -54,6 +54,7 @@ projects[entityreference][subdir] = "contrib"
 
 projects[environment_indicator][subdir] = "contrib"
 
+projects[features][version] = "7.x-2.0-beta1"
 projects[features][subdir] = "contrib"
 
 projects[feeds][subdir] = "contrib"
