@@ -30,6 +30,8 @@ projects[block_class][subdir] = "contrib"
 
 projects[boxes][subdir] = "contrib"
 
+projects[ckeditor_link][subdir] = "contrib"
+
 projects[ctools][subdir] = "contrib"
 
 projects[context][subdir] = "contrib"
@@ -54,7 +56,7 @@ projects[entityreference][subdir] = "contrib"
 
 projects[environment_indicator][subdir] = "contrib"
 
-projects[features][version] = "7.x-2.0-beta1"
+projects[features][version] = "2.0-beta1"
 projects[features][subdir] = "contrib"
 
 projects[feeds][subdir] = "contrib"
@@ -177,19 +179,21 @@ projects[wysiwyg][subdir] = "contrib"
 
 projects[xmlsitemap][subdir] = "contrib"
 
+
+;Search-Related Cluster #1
+;projects[search_api][subdir] = "contrib"
+
+;projects[search_api_page][subdir] = "contrib"
+
+;projects[search_api_solr][subdir] = "contrib"
+
+
 ; Themes
 projects[] = "omega"
-projects[] = "beta"
-
-projects[slu_libraries_theme][type] = "theme"
-projects[slu_libraries_theme][download][type] = "git"
-projects[slu_libraries_theme][download][url] = "git@github.com:EWB/slu_libraries_theme.git"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
-projects[slu_library][download][type] = ""
-projects[slu_library][download][url] = ""
-projects[slu_library][type] = "theme"
+
 
 ; Libraries
 libraries[ckeditor][download][type] = "get"
