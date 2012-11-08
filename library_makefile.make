@@ -36,8 +36,6 @@ projects[ctools][subdir] = "contrib"
 
 projects[context][subdir] = "contrib"
 
-projects[facetapi][subdir] = "contrib"
-
 projects[date][subdir] = "contrib"
 
 projects[delta][subdir] = "contrib"
@@ -55,6 +53,10 @@ projects[entitycache][subdir] = "contrib"
 projects[entityreference][subdir] = "contrib"
 
 projects[environment_indicator][subdir] = "contrib"
+
+projects[facetapi][subdir] = "contrib"
+
+projects[facetapi_collapsible][subdir] = "contrib"
 
 projects[features][version] = "2.0-beta1"
 projects[features][subdir] = "contrib"
@@ -134,8 +136,6 @@ projects[library_taxonomies][subdir] = "features"
 
 projects[link][subdir] = "contrib"
 
-projects[linkit][subdir] = "contrib"
-
 projects[metatag][subdir] = "contrib"
 
 projects[name][subdir] = "contrib"
@@ -156,6 +156,8 @@ projects[print][subdir] = "contrib"
 
 projects[quicktabs][subdir] = "contrib"
 
+projects[services][subdir] = "contrib"
+
 projects[sharethis][subdir] = "contrib"
 
 projects[strongarm][subdir] = "contrib"
@@ -166,7 +168,7 @@ projects[taxonomy_manager][subdir] = "contrib"
 
 projects[token][subdir] = "contrib"
 
-projects[uuid][version] = "1.0-alpha3"
+projects[uuid][version] = "1.0-dev"
 projects[uuid][subdir] = "contrib"
 
 projects[views][subdir] = "contrib"
