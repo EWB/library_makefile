@@ -79,6 +79,8 @@ projects[globalredirect][subdir] = "contrib"
 
 projects[google_analytics][subdir] = "contrib"
 
+projects[hide_formats][subdir] = "contrib"
+
 projects[job_scheduler][subdir] = "contrib"
 
 projects[libraries][subdir] = "contrib"
