@@ -195,6 +195,10 @@ projects[search_api_solr][subdir] = "contrib"
 ; Themes
 projects[] = "omega"
 
+projects[slu_libraries_theme][download][type] = "git"
+projects[slu_libraries_theme][download][url] = "git@github.com:EWB/slu_libraries_theme.git"
+projects[slu_libraries_theme][type] = "theme"
+
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
 
