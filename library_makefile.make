@@ -185,11 +185,11 @@ projects[xmlsitemap][subdir] = "contrib"
 
 
 ;Search-Related Cluster #1
-;projects[search_api][subdir] = "contrib"
+projects[search_api][subdir] = "contrib"
 
-;projects[search_api_page][subdir] = "contrib"
+projects[search_api_page][subdir] = "contrib"
 
-;projects[search_api_solr][subdir] = "contrib"
+projects[search_api_solr][subdir] = "contrib"
 
 
 ; Themes
