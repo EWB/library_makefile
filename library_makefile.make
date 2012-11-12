@@ -81,6 +81,8 @@ projects[google_analytics][subdir] = "contrib"
 
 projects[hide_formats][subdir] = "contrib"
 
+projects[data_export_import][subdir] = "contrib"
+
 projects[job_scheduler][subdir] = "contrib"
 
 projects[libraries][subdir] = "contrib"
@@ -143,8 +145,6 @@ projects[metatag][subdir] = "contrib"
 projects[name][subdir] = "contrib"
 
 projects[nice_menus][subdir] = "contrib"
-
-projects[node_export][subdir] = "contrib"
 
 projects[omega_tools][subdir] = "contrib"
 
