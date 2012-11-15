@@ -36,6 +36,8 @@ projects[ctools][subdir] = "contrib"
 
 projects[context][subdir] = "contrib"
 
+projects[context_mobile_detect][subdir] = "contrib"
+
 projects[date][subdir] = "contrib"
 
 projects[delta][subdir] = "contrib"
