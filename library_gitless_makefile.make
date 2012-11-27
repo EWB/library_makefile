@@ -11,21 +11,6 @@ projects[addressfield][subdir] = "contrib"
 
 projects[backup_migrate][subdir] = "contrib"
 
-projects[base_announcement][download][type] = "git"
-projects[base_announcement][download][url] = "git@github.com:EWB/base_announcement.git"
-projects[base_announcement][type] = "module"
-projects[base_announcement][subdir] = "features"
-
-projects[base_event][download][type] = "git"
-projects[base_event][download][url] = "git@github.com:EWB/base_event.git"
-projects[base_event][type] = "module"
-projects[base_event][subdir] = "features"
-
-projects[base_wysiwyg_editor][download][type] = "git"
-projects[base_wysiwyg_editor][download][url] = "git@github.com:EWB/base_wysiwyg_editor.git"
-projects[base_wysiwyg_editor][type] = "module"
-projects[base_wysiwyg_editor][subdir] = "features"
-
 projects[block_class][subdir] = "contrib"
 
 projects[boxes][subdir] = "contrib"
@@ -89,57 +74,6 @@ projects[job_scheduler][subdir] = "contrib"
 
 projects[libraries][subdir] = "contrib"
 
-projects[library_database][download][type] = "git"
-projects[library_database][download][url] = "git@github.com:EWB/library_database.git"
-projects[library_database][type] = "module"
-projects[library_database][subdir] = "features"
-
-projects[library_taxonomies][download][type] = "git"
-projects[library_taxonomies][download][url] = "git@github.com:EWB/library_taxonomies.git"
-projects[library_taxonomies][type] = "module"
-projects[library_taxonomies][subdir] = "features"
-
-projects[library_citation_guide][download][type] = "git"
-projects[library_citation_guide][download][url] = "git@github.com:EWB/library_citation_guide.git"
-projects[library_citation_guide][type] = "module"
-projects[library_citation_guide][subdir] = "features"
-
-projects[library_course_profile][download][type] = "git"
-projects[library_course_profile][download][url] = "git@github.com:EWB/library_course_profile.git"
-projects[library_course_profile][type] = "module"
-projects[library_course_profile][subdir] = "features"
-
-projects[library_database][download][type] = "git"
-projects[library_database][download][url] = "git@github.com:EWB/library_database.git"
-projects[library_database][type] = "module"
-projects[library_database][subdir] = "features"
-
-projects[library_ebooks][download][type] = "git"
-projects[library_ebooks][download][url] = "git@github.com:EWB/library_ebooks.git"
-projects[library_ebooks][type] = "module"
-projects[library_ebooks][subdir] = "features"
-
-projects[library_manuscript_collection][download][type] = "git"
-projects[library_manuscript_collection][download][url] = "git@github.com:EWB/library_manuscript_collection.git"
-projects[library_manuscript_collection][type] = "module"
-projects[library_manuscript_collection][subdir] = "features"
-
-projects[library_research_guide][download][type] = "git"
-projects[library_research_guide][download][url] = "git@github.com:EWB/library_research_guide.git"
-projects[library_research_guide][type] = "module"
-projects[library_research_guide][subdir] = "features"
-
-
-projects[library_staff_profile][download][type] = "git"
-projects[library_staff_profile][download][url] = "git@github.com:EWB/library_staff_profile.git"
-projects[library_staff_profile][type] = "module"
-projects[library_staff_profile][subdir] = "features"
-
-projects[library_taxonomies][download][type] = "git"
-projects[library_taxonomies][download][url] = "git@github.com:EWB/library_taxonomies.git"
-projects[library_taxonomies][type] = "module"
-projects[library_taxonomies][subdir] = "features"
-
 projects[link][subdir] = "contrib"
 
 projects[metatag][subdir] = "contrib"
@@ -196,10 +130,6 @@ projects[search_api_solr][subdir] = "contrib"
 
 ; Themes
 projects[] = "omega"
-
-projects[slu_libraries_theme][download][type] = "git"
-projects[slu_libraries_theme][download][url] = "git@github.com:EWB/slu_libraries_theme.git"
-projects[slu_libraries_theme][type] = "theme"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
